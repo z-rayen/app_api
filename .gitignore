@@ -1,0 +1,7 @@
+# Ignore Python virtual environment directories
+
+Include/
+Lib/
+Scripts/
+__pycache__/
+pyvenv.cfg
